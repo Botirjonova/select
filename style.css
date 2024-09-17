@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 50px;
+    color: white;
+    font-family: Poppins;
+   }
+
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    gap: 50px;
+}
+
+header{
+    gap: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #100a28;
+    width: 1815px;
+
+}
+
+.a1{
+    text-decoration: none;
+    color: white;
+    font-family: Poppins;
+}
+.btn1{
+    width: 2000px;
+
+}
+
+select{
+    border: none;
+    background-color: #100a28;
+    color: white;
+    border: 6 px solid transparent white;
+    font-family: Poppins;
+}
+
+.n2{
+    background: #BFAFF2;
+    color: black;
+    font-family: Poppins;
+}
+
+.n1{
+    color: white;
+    width: 78px;
+    height: 20px;
+    border-radius: 10px;
+    background: #030303;
+    font-family: Poppins;
+
+}
+
+.m2{
+    width: 360px;
+    height: 280px;
+    background: #232028;
+    color: white;
+    border-radius: 32px;
+   margin-left: 42px;
+   
+}
+
+.p1{
+    width: 393px;
+    padding-left: 53px;
+    font-weight: 400;
+    font-size: 34px;
+    font-family: Poppins;
+    padding-top: 30px;
+
+}
+
+.p2{
+  
+    padding-left: 40px;
+    width: 293px;
+    padding-top: 50px;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Poppins;
+}
+
+main{
+  background-color: #120b2c;
+  height: 835px;
+  width: 1815px;
+
+}
+
+.moon{
+  
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    width: 600px;
+    gap: 50px;
+}
+
+.m2{
+  margin-top: 500px;
+}
+
+img{
+    position: absolute;
+    right: 1169px;
+    top: 265px;
+}
+
+.img1{
+    position: absolute;
+    left: 551px;
+}
+
+.img2{
+    position: absolute;
+    left: 999px;
+}
+
+.img3{
+    position: absolute;
+    left: 1464px;
+}
+
+footer{
+    background-color: #100a28;
+    width: 1815px;
+    height: 40px;
+}
+
+.f2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 900px;
+    gap: 50px;
+  
+}
+
+.a2{
+    text-decoration: none;
+    color: white;
+    font-family: Poppins;
+}
+
+.a4{
+    color: white;
+    font-family: Poppins;
+}
+
+.h11{
+    color: white;
+}
+
+.f1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    width: 175px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background: #BFAFF2;
+    
+}
